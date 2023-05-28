@@ -1,0 +1,2786 @@
+{
+  "corpus_size": 10,
+  "corpus_word_count": {
+    "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 90,
+    "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 55,
+    "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 53,
+    "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 68,
+    "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 85,
+    "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 82,
+    "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 82,
+    "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 21,
+    "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 27,
+    "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 41
+  },
+  "words": {
+    "መጠርንኧምው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 3
+      }
+    ],
+    "ምሥ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ምሽት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ያጭርም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ጌፍምየገምብኧንአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ጓድም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ትክ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ባሪቅ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ክርሥትኢይአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ይስላም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ይቶብያ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ግundefinedኢግርምያፍርኢክአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ለም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "የዝ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "አፈር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 3
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ሰብ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 2
+      }
+    ],
+    "እንምብኧህኦክአችኧብኧፍርድ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ጥየ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 3
+      }
+    ],
+    "ናዥንኧውኤኧጀንድአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ግርኧንዳ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "አምፈንድአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ኤሥኧትዌ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ቅundefinedንቅundefined": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ይውን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ቃር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ዝርፍ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ኤንኧብንድኧው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ቀርብኧንዳ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ባጢር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ስር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 3
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ጋፈረምውኤምኧጥኧርነ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ንብነ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 2
+      }
+    ],
+    "ዩርም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 2
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "በኽነ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ቦደረ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ትንሠፍርነያንቅ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ትንቾናነ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ባሪቅንኧት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ትንአዥነ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ሸደት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ትንሽድነ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ታናበርጥነቅ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ንፍኧርድን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "አንድንኧምቅ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ንግረድድነ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ሰብዌ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ኤሽኧሽትው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ኸልቅ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ኤምዋንንደው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ዝም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ንብኔ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ኸማ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 2
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ዮጣነብ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ሀብን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ናፌነበበሥቅundefinedር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ያነ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ሰሜ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "አንሠራነበተሠብ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "መጠርን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ተጥብ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ጥብ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ባተርንኧምቅ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ዋሚ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ቀመንድ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "እርስ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ተርቅ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "አምኧንኧንኧምምር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ይብሮንደ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ይኽሩ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ቀንጥኦንደ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ማጦንድኧምመጠርን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ምቅአር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "መጭንደ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "እህኧምኧንዳ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "አንምundefinedአቅ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "እግዘር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ብንደ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/መጠርነምዌ.txt": 1
+      }
+    ],
+    "ቤሻቤኸርundefined": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "የድያ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ርብአትቤያቅundefinedርጥህ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ዬማ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ሸረትብአትደብር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ቍም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ባትድኧብር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ቆት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "የድየ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ዋና": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ትጭኧጭኧundefined": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ቅርኧጥኧፍኸ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 2
+      }
+    ],
+    "ዳንግአundefined": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ሥundefinedኧሥኧundefinedኧundefined": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ፍይኧቅ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ግምቤ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ባሥundefinedኧቅረ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "በሻ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 2
+      }
+    ],
+    "ቀኸበፌ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "እሳት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ይምኧግርundefined": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "፡፡": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ታመር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "በራር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ድርኧድግንኢ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ዝኽ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "የባኌ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ጌታ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ፍርኧundefinedኧንኢግundefinedግundefinedር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "አፍኢይአው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "በናኸጀንጅር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ገጉ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ነናኸግundefinedራ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ከነ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ወኸታኸዋዞር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ወዥ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ቆመናኸምትኧቅኧርባኸተራከሥundefined": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ኲሼ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ጅሥማኸበዠ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ፈነብundefined": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ይፍረሽብኸያፈታብundefined": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ሻት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ቀርጭአት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ረሽብኸታው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ጐቤቾ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ታው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ገገርብአንካ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "አትግብአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "አትሥብኧብኧር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ቤሻ.txt": 1
+      }
+    ],
+    "ኔሁያባይ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "እኻ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 2
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ሠጨሁባዋ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ትፍራታሁዌ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ዳራጎ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ደነግህኡብአርሢ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ባሌ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ትርኧክኧብሁበግundefinedራግ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ትጭኧንኧህኡብአፍአር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ኸብር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ትፍኧቅኧርሁእሽታ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ገምያ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "እምአህኡሽኧምኧንአህ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ይፍኧዝህ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ይጥአንሁሸ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ኔኹ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ኔሁአምአርኢክአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ምቅአርአህኡውጣርይአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ጀርመን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ምር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ገጋሁውብኧዝም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ቾቺም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ረጠዊምብኧዝም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ቀጪም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ዜግንኧት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ቀግundefinedኢምዝ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ጕራጌ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "አትአዝኦይዌእም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ከረ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ፊያት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ነረንው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ሜና": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 2
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "በዝሜ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ባንቅኧውኧጭኢምዋኒ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ባንቅረጪ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "የምር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 2
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "እንምግኢ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 2
+      }
+    ],
+    "ሥቅዋጭጭኢውጤንይ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "እማት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ይርኦጭኢክኧር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ኤነን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ጥርራትግኢ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ይመራ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "አትጊ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ይቅኧብርቅundefinedርአቅራት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ይራም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ክundefinedኢሥርይኧዝኧር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "እኻው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ኤይአምኧጥር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ኔኹ.txt": 1
+      }
+    ],
+    "ማጀዋዝርአግኧም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ኧርጅ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "አዝራገሜአዝራገም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ባዘራ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 2
+      }
+    ],
+    "አዝራገሜየተንብኢ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "በረሜ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 2
+      }
+    ],
+    "ብሥአብኢ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ላለዲ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ዬምጣ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ዬምጥአብኢ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ረሜሽምአህማ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ቃያኸማ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ተጨራ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ኦደሜ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "አንፍ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ኤኽር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "አንፈንድአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "አርወሠሜውሥአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ከትፊ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "አጥፌሜቅጭአንዳ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "አትሽ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ረሜአዝራነማ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ግሬድ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ምረማ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ረመድundefinedኧንኧምአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ንማጀ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 2
+      }
+    ],
+    "ይኽ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ረማፍቅር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ነረነማ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ይሽር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ቃረህንኧምአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "መርንኧምአምታነ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ኸተር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ህንኧምአትኧህ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ረመድundefined": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ውጠቅ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ባተህንኧምአትኧምኧርመር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ኔኸ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ኽሜ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ተዝሜ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "እንባኸ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "የኽር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ባት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "የቍም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "መጨ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ሽብአችአundefinedኧትኧጭኧርአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ኻነማ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ይና": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ግርኤድረማህም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ዝሜ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ኤኽ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ረማ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ያቱ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ይብረማአዝራገም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "አዝራገሜሥር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ቡሬ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "እምባረ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ጫንዳ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "አትኸ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ረሜግundefinedራግ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ንምአጅ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "አትኧዝኧም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ንማጀው.txt": 1
+      }
+    ],
+    "ደፋሁመገግር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ሶረር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ይችኦንኧብኡ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቤኔ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ኧጅ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 2
+      }
+    ],
+    "ዳር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ይትመጭ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ጥርር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ባገኔ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ሸረት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 2
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ቤት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 3
+      }
+    ],
+    "ፈትን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ነመጠጥ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ናቄጥን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ዝክአውው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ኔላነ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቾትን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ንትረጠብን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ትግአብአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ስማት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "አንቶትህ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ዘበር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 2
+      }
+    ],
+    "ሽግአግኧር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "የድረ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "አንኸረበዝ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ሥርኧጥኧር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ዝካ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቢሽር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "አንፉ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቢሥቅundefinedንር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ጠረሸት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቀጥርቅርአጭ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቲዘግርወ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቌርዌ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቲትድራደር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ብጭርቅኦ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቴያሙጥርኢ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቲዊ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ይሰጪ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቲያትቅኧንዊ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ሥውር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ንር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ግብር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ትምባህundefinedየ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቲረፎ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ስርም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቀመጥ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ኤባር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "በኽ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ወትግኧድኧር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ባዘርንኧት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ወትብአዝኧርሸረት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ወብርአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ወስጤ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ንቃር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ሽግግ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቲብር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ባንሥአር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ግዝየ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ግድየም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ግድየ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ኤundefinedኧርእምግundefinedኢይአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቲያትምኧክአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "አኈት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቲንቅundefinedርኧሥ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ደፋንህኡ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ሰቦ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "አቸም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ውቴል": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ወቅር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "የደፋ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "የቃዋ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቄጥ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ቅምኧጭ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ያትሸ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የደፋንኹ.txt": 1
+      }
+    ],
+    "ጎዝይኧድአኧሻማህ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ጎዝይኧንዳ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 2
+      }
+    ],
+    "ሻማሁአፍጣጥርኦምታ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ቶቶይ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ውጎይ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ዋት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ግundefinedራሁአትምሥኦምታ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ውኮይ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ድርጎይ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ዝነ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ኸራሁቅundefinedፋ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "እንቅundefinedርፍ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "በትሳደደም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ኤድምድሁየዘድር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ጐር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "አማድ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ጥፏ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ህንሁበ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ተዝ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ጐበት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ዳዳ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "በፌር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ቶሥጥኤዝኤግነት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ጋጀ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ይትቀ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ምምታ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ይትቀበጤጎዝ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ደሙጂ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ደቡሪ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "በጃድ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ገቤምዝም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ናቚ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ቶቺም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ቃዋ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "አፍዋጥርኢ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ውጠት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "በዝኼ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ዘበርግአይውጥኧት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "መረጋ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ኬርዝኧንግundefinedየር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ተኻት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ምundefinedአርአግአይአምኡ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ፌሬ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ተበቃያዳሮታ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "የሼህ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "አብዶይቅኧጥአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ሠን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ኮርንማይግብት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ውር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ሠንብኧት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ኤይአፍኧርኢትኧድኧምኧጅኢ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ብማት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ዋሪኤምአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ሰኩ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "አትአንክርት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ቅውሪጎ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ቍቶ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ድብር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "አምኡርኢግኦዝ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ቲደምጅኢ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ይትራመጂሜ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ይቴግ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ተዝራብ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ይትኸሎጂ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "እንዴ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      },
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "አፍጣጥርኦአጎት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "በሮ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ተቅ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ባበሮ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ቶሳቻ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "እሸታ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "አትባድርኦ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ድር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ወረት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "አውሮ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/የጎዝየንዳ.txt": 1
+      }
+    ],
+    "ያኽ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "አundefinedኧርኦውኤውርውር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ውርውር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 2
+      }
+    ],
+    "ቤ\n": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ገረድ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ደራር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ጣን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ውጨ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "አድባብ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ባነቦ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 2
+      }
+    ],
+    "ድረም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ውጪባ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ኧኋም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ነረቦ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ጅብአብኦ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ሸበታ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ዳርሳሞም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ላምብየዶንቅኧምኦ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ሲፈኖ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "አምዴነ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 2
+      }
+    ],
+    "ፉርችየ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ኤመዶ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ቅundefinedርጥአሥአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ምሥኡርአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ጎንችየኖድሥአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ጋሪሸ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ባቶ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ሲቈራ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ሱጋቶ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ኰሪሳ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "በጡራ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "በሽይ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ውርዳሣ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ጃሮሣ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ኤርሞራ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ሸዋበዛ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ምርደቶ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ሹራሞ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ጃሮሳ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ነፋርድአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ነባርችአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ነዋርይ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ነዶርሥአንኧርኢ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ቲራጎ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "አቺቦ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ጣሣሡርጥአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ክundefinedኢድኧልአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ዳርቻ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ባሬሣጅንኢንአር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ጅንኢንአር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ንቅየ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "አባ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ፍርአንሣቱርግአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ጥርኡህ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "አምኧርጋ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ጨረቶ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ሳፎ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ሽርአግኦ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ማርድኧሥአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ሣያቶላማደ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ኤግኧንኦ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ያኻ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "አንኸሮዌሽምኦ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ቲረሼ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ኤሽር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ዌ\nኽ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ናኽ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ሎጥ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ኤብርው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ሙቅንኧት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ኤጥኧብጥ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ዌ\n": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ያኽ አንኸሮዌ.txt": 1
+      }
+    ],
+    "ይምኦችኢትኤ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ፈጥንኧይኧምር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ንቅማምንኧይኧምር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ናድብአብርንኧይሞቺቴ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ሠቦዛ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ሞት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ነረብንደ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "መጢተ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ኤችንድኧኧዜተ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ኤግኧፍርንደይችኧንቴ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ይችኧንቴቴያትጭኧብብንደኧጅ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ኧግር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ይትአግኧድቴአንኧብኧት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ይምኦትኤምኦት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ቀመም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ቢፍትኧንዴጮረ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ፈካንድኤእን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ትንኽ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ነየምር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ናድብአብርን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይሞቺቴሽ.txt": 1
+      }
+    ],
+    "ይትኦብያናጋጀ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ጥማት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ብክአንአንአግዝር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ርብአት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ፏፏየ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ደመር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ገሙጀናየትግኧድኧር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ኽወ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "አንዘታህጭኦር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ያትረቄ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ፈራህጥኧብአህundefinedን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "የታሜ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ጥዋኽ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "መቸው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ዠብ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ጄዛህይ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ቀርብአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "እምኡርኧት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "አግኑተናየትምኡግኦው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "እትኤትኧንአይያ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "አዶ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ይትኦብያናየሥርአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ኧኳም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ደነናየጠቀርህundefined": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ይቶብያና.txt": 1
+      }
+    ],
+    "ዮርምኧድአውዌአምኧርአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ውርአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ሠረናየጥፍአ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ትብላሸ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ደመረናሥር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "የሰብ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ኤግኧብአብኢብአት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ወኸት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ኤነቢ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "እያሽ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "የገን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ልቀና": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "አንሠጭ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "አንቀ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ይሽታይ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "አንአርሙርትኢንህundefined": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ጭክንህundefined": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ኧሙርን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ትንብር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ያሙን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ይህርሽኧው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ተሥትአር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "አር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ዩርምኧንአውው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ምስም": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "እርሥ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ንቅምብአርኧሥርጥአን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "የቄጥ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ሠብምቆ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "መረክundefinedሤ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ሼኽ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ደረሣምይኡርመንድአውው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ንዝረኔቅርኧር": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ገባት": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ትየ": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ንትኤንኤይኧግታውው": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ],
+    "ንቅማምን": [
+      {
+        "/home/pop-os/Desktop/GIRS/G.I.R.S/GIRS/documents/ዮርመንዳውዌ.txt": 1
+      }
+    ]
+  }
+}
